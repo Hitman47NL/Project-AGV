@@ -1,6 +1,9 @@
 /*
     made by Iwan van Bezouw 21010099 student HHS
  */
+/*
+    Deze comment is getypt door Hidde Tinselboer 18052940 om te voldoen aan de opdracht van Versie beheer
+    */
 
 #include <avr/io.h>
 #include "h_bridge_enA.h"
