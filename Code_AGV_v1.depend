@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1654156116 source:e:\0 scholen\haagsehogeschool\jaar 1\blok 4\project agv\code\code_agv_v1\fuse.c
+	<avr/io.h>
+
+1654156472 source:e:\0 scholen\haagsehogeschool\jaar 1\blok 4\project agv\code\code_agv_v1\h_bridge_ena.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge_enA.h"
+
+1654157451 e:\0 scholen\haagsehogeschool\jaar 1\blok 4\project agv\code\code_agv_v1\h_bridge_ena.h
+
+1654175141 source:e:\0 scholen\haagsehogeschool\jaar 1\blok 4\project agv\code\code_agv_v1\h_bridge_enb.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge_enB.h"
+
+1654175037 e:\0 scholen\haagsehogeschool\jaar 1\blok 4\project agv\code\code_agv_v1\h_bridge_enb.h
+
+1654158374 source:e:\0 scholen\haagsehogeschool\jaar 1\blok 4\project agv\code\code_agv_v1\main.c
+	<avr/io.h>
+	"h_bridge_enA.h"
+	"h_bridge_enB.h"
+
