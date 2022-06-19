@@ -5,6 +5,8 @@
     Deze comment is getypt door Hidde Tinselboer 18052940 om te voldoen aan de opdracht van Versie beheer
     */
 
+/*Comment voor Versiebeheer van Project AGV. Getypt door Nathan Tromp 20141288*/
+
 #include <avr/io.h>
 #include "h_bridge_enA.h"
 #include "h_bridge_enB.h"
