@@ -1,7 +1,12 @@
 /*
     Code AGV made by Iwan van Bezouw 21010099 student HHS
+    
     Deze comment is getypt door Hidde Tinselboer 18052940 om te voldoen aan de opdracht van Versie beheer
+    
     Comment voor Versiebeheer van Project AGV. Getypt door Nathan Tromp 20141288
+    
+    De hieronderstaande code is nog niet volledig en en er staan nog gedeeltes van de code als commentaar zodat de rest beter getest kon worden. 
+    Onderstaande code is dus nog niet definitief. Deze opmerking is geschreven door Daan Meijer 21117853
 */
 
     
